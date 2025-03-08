@@ -5,8 +5,9 @@
 <br/>
 
 ### 🧑🏽‍💻 **`Academic - Information Systems 1/8`**
-<br/>
 
+<br/>
+<h3 align="left">Connect with me:</h3>
 <div> 
   <a href="https://instagram.com/cleyltonalcantara" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/CleyltonLuiz" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
@@ -41,12 +42,23 @@
 <br>
 <br>
 
+
 <div align="center">
-  <img height="225" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDd5cHhqcjRjMWtyaDV1NWo1NTR0aHBhbjk2cHRqNjBlNnlkY3FtYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XAMhTR7sYhmSBQXCp6/giphy.gif"/>
-</div>
-<div align="center">
-  <img src="https://profile-counter.glitch.me/cleyltonalcantara/count.svg?"  />
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=cleyltonalcantara&label=Profile%20views&color=0081d1&style=flat" alt="cleyltonalcantara" /> </p>
 </div>
 <br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a39e00&height=120&section=footer"/>
+
+-----------------
+
+<p align="center">
+<a href="https://twitter.com/cleyltonluiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cleyltonluiz" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/cleyltonalcantara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cleyltonalcantara" height="30" width="40" /></a>
+<a href="https://fb.com/cleyltonalcantara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cleyltonalcantara" height="30" width="40" /></a>
+<a href="https://instagram.com/cleyltonalcantara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cleyltonalcantara" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/cleyltonalcantara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cleyltonalcantara" height="30" width="40" /></a>
+<a href="https://discord.gg/cleyltonalcantara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="cleyltonalcantara" height="30" width="40" /></a>
+</p>
+
+
