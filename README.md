@@ -42,6 +42,9 @@
 <br>
 
 <div align="center">
+  <img height="225" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDd5cHhqcjRjMWtyaDV1NWo1NTR0aHBhbjk2cHRqNjBlNnlkY3FtYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XAMhTR7sYhmSBQXCp6/giphy.gif"/>
+</div>
+<div align="center">
   <img src="https://profile-counter.glitch.me/cleyltonalcantara/count.svg?"  />
 </div>
 <br>
