@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a39e00&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3950a2&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f1ff33&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Cleylton+Alcântara;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 <br/>
@@ -48,7 +48,7 @@
 </div>
 <br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a39e00&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3950a2&height=120&section=footer"/>
 
 -----------------
 
