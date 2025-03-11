@@ -1,8 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3950a2&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f1ff33&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Cleylton+Alcântara;Be+Welcome!+:%29)](https://git.io/typing-svg) 
-<br/>
-<br/>
+<br/> <br/>
 
 ### 🧑🏽‍💻 **`Academic - Information Systems 1/8`**
 
@@ -20,15 +19,17 @@
 
 ### 🤖 Languages ​​and Technologies
 
-<img 
-    align="left" 
-    alt="C"
-    title="C" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://icongr.am/devicon/c-original.svg" 
-/>
-<br/>
+<img  align="left"  alt="C"  title="C"  width="30px"  style="padding-right: 10px;"  src="https://icongr.am/devicon/c-original.svg"/>
+<br/> <br/>
+
+---
+
+### ✍️ Visual Communication
+
+<img align="left"  alt="Adobe Photoshop"  title="Adobe Photoshop"  width="35px"  style="padding-right: 10px;"  src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/photoshop.svg"/>
+<img align="left"  alt="Adobe Ilustrator"  title="Adobe Ilustrator"  width="35px"  style="padding-right: 10px;"  src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/illustrator.svg"/>
+<img align="left"  alt="CorelDraw"  title="CorelDraw"  width="30px"  style="padding-right: 10px;"  src="https://www.bestsw.com.br/wp-content/uploads/2020/11/corel-draw-2020.svg"/>
+<br/> <br/>
 
 ---
 
@@ -38,9 +39,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cleyltonalcantara&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="169" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cleyltonalcantara&radius=16&theme=react&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
-<br>
-<br>
-<br>
+<br> <br> <br>
 
 
 <div align="center">
