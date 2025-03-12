@@ -39,13 +39,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cleyltonalcantara&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="169" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cleyltonalcantara&radius=16&theme=react&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
-<br> <br> <br>
+<br><br><br>
 
+<div align="center">
+<img title="By: Cleylton Alcântara" width=50% src="https://i.ibb.co/cSK2xGpW/Vida-De-Programador.png"/>
+</div>
+<br><br><br>
 
 <div align="center">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cleyltonalcantara&label=Profile%20views&color=0081d1&style=flat" alt="cleyltonalcantara" /> </p>
 </div>
-<br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3950a2&height=120&section=footer"/>
 
@@ -53,7 +56,7 @@
 
 <p align="center">
 <a href="https://twitter.com/cleyltonluiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cleyltonluiz" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/cleyltonalcantara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cleyltonalcantara" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/cleyltonalcantara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cleyltonalcantara" height="30" width="40"/></a>
 <a href="https://fb.com/cleyltonalcantara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cleyltonalcantara" height="30" width="40" /></a>
 <a href="https://instagram.com/cleyltonalcantara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cleyltonalcantara" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/cleyltonalcantara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cleyltonalcantara" height="30" width="40" /></a>
