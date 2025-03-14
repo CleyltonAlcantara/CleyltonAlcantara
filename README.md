@@ -19,16 +19,16 @@
 
 ### 🤖 Languages ​​and Technologies
 
-<img  align="left"  alt="C"  title="C"  width="30px"  style="padding-right: 10px;"  src="https://icongr.am/devicon/c-original.svg"/>
+<a href="https://github.com/cleyltonalcantara" target="_blank"> <img  align="left"  alt="C"  title="C"  width="30px"  style="padding-right: 10px;"  src="https://icongr.am/devicon/c-original.svg"/>
 <br/> <br/>
 
 ---
 
 ### ✍️ Visual Communication
 
-<img align="left"  alt="Adobe Photoshop"  title="Adobe Photoshop"  width="35px"  style="padding-right: 10px;"  src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/photoshop.svg"/>
-<img align="left"  alt="Adobe Ilustrator"  title="Adobe Ilustrator"  width="35px"  style="padding-right: 10px;"  src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/illustrator.svg"/>
-<img align="left"  alt="CorelDraw"  title="CorelDraw"  width="30px"  style="padding-right: 10px;"  src="https://www.bestsw.com.br/wp-content/uploads/2020/11/corel-draw-2020.svg"/>
+<a href="https://github.com/cleyltonalcantara" target="_blank"> <img align="left"  alt="Adobe Photoshop"  title="Adobe Photoshop"  width="35px"  style="padding-right: 10px;"  src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/photoshop.svg"/>
+<a href="https://github.com/cleyltonalcantara" target="_blank"> <img align="left"  alt="Adobe Ilustrator"  title="Adobe Ilustrator"  width="35px"  style="padding-right: 10px;"  src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/illustrator.svg"/>
+<a href="https://github.com/cleyltonalcantara" target="_blank"> <img align="left"  alt="CorelDraw"  title="CorelDraw"  width="30px"  style="padding-right: 10px;"  src="https://www.bestsw.com.br/wp-content/uploads/2020/11/corel-draw-2020.svg"/>
 <br/> <br/>
 
 ---
