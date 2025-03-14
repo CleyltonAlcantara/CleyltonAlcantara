@@ -47,7 +47,7 @@
 <br><br><br>
 
 <div align="center">
-<a href="https://github.com/cleyltonalcantara" target="_blank"> <img src="https://komarev.com/ghpvc/?username=cleyltonalcantara&label=Profile%20views&color=0081d1&style=flat" alt="cleyltonalcantara" /> </p>
+<a href="https://github.com/cleyltonalcantara" target="_blank"> <img width=18% src="https://komarev.com/ghpvc/?username=cleyltonalcantara&label=Profile%20views&color=0081d1&style=flat" alt="cleyltonalcantara" /> </p>
 </div>
 
 <a href="https://github.com/cleyltonalcantara" target="_blank"> <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3950a2&height=120&section=footer"/>
