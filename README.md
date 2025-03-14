@@ -42,7 +42,7 @@
 <br><br><br>
 
 <div align="center">
-<img title="By: Cleylton Alcântara" width=50% src="https://i.ibb.co/cSK2xGpW/Vida-De-Programador.png"/>
+<a href="https://github.com/cleyltonalcantara" target="_blank"> <img title="By: Cleylton Alcântara" width=70% src="https://i.ibb.co/cSK2xGpW/Vida-De-Programador.png"/>
 </div>
 <br><br><br>
 
