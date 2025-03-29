@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f1ff33&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Cleylton+Alcântara;Be+Welcome!+:%29)](https://github.com/cleyltonalcantara) 
 <br/> <br/>
 
-### 🧑🏽‍💻 **`Academic - Information Systems 1/8`**
+### 💻 **`Academic - Information Systems 1/8`**
 
 <br/>
 <h3 align="left">Connect with me:</h3>
