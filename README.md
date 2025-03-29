@@ -57,10 +57,10 @@
 <p align="center">
 <a href="https://twitter.com/cleyltonluiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cleyltonluiz" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/cleyltonalcantara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cleyltonalcantara" height="30" width="40"/></a>
-<a href="https://fb.com/cleyltonalcantara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cleyltonalcantara" height="30" width="40" /></a>
-<a href="https://instagram.com/cleyltonalcantara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cleyltonalcantara" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/cleyltonalcantara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cleyltonalcantara" height="30" width="40" /></a>
-<a href="https://discord.gg/cleyltonalcantara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="cleyltonalcantara" height="30" width="40" /></a>
+<a href="https://fb.com/cleyltonalcantara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="CleyltonAlcantara" height="30" width="40" /></a>
+<a href="https://instagram.com/cleyltonalcantara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="CleyltonAlcantara" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/cleyltonalcantara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="CleyltonAlcantara" height="30" width="40" /></a>
+<a href="https://discord.gg/QVQQTKBD5b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="CleyltonAlcantara" height="30" width="40" /></a>
 </p>
 
 
