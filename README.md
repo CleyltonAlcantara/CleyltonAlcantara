@@ -10,7 +10,7 @@
 <div> 
   <a href="https://instagram.com/cleyltonalcantara" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/CleyltonLuiz" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
-  <a href="https://discord.gg/QVQQTKBD5b" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href="https://discord.gg/53ubEDv9Ey" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="mailto:cleylton@gmail.com.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 <br/>
@@ -60,7 +60,7 @@
 <a href="https://fb.com/cleyltonalcantara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="CleyltonAlcantara" height="30" width="40" /></a>
 <a href="https://instagram.com/cleyltonalcantara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="CleyltonAlcantara" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/cleyltonalcantara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="CleyltonAlcantara" height="30" width="40" /></a>
-<a href="https://discord.gg/QVQQTKBD5b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="CleyltonAlcantara" height="30" width="40" /></a>
+<a href="https://discord.gg/53ubEDv9Ey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="CleyltonAlcantara" height="30" width="40" /></a>
 </p>
 
 
