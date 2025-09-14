@@ -1,6 +1,6 @@
 <a href="https://github.com/cleyltonalcantara" target="_blank"> <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3950a2&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f1ff33&size=35&center=true&vCenter=true&width=1000&lines=Hello+Word!;My+name+is+Cleylton+Alcântara...;Welcome+to+my+GitHub!+🚀;:%29)](https://github.com/cleyltonalcantara) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f1ff33&size=35&center=true&vCenter=true&width=1000&lines=Hello+Word!;My+name+is+Cleylton+Alcântara...;Welcome+to+my+GitHub+🚀;:%29)](https://github.com/cleyltonalcantara) 
 <br/> <br/>
 
 ### 💻 **`Academic - Information Systems 1/8`**
